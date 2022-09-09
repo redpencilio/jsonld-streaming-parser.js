@@ -2521,17 +2521,6 @@ jsonld-context-parser@^2.0.2, jsonld-context-parser@^2.1.3:
     http-link-header "^1.0.2"
     relative-to-absolute-iri "^1.0.5"
 
-"jsonld-context-parser@https://github.com/redpencilio/jsonld-context-parser.js":
-  version "2.2.0"
-  resolved "https://github.com/redpencilio/jsonld-context-parser.js#5524a16420c490c3e029e96cfad28dfb5ecf2c81"
-  dependencies:
-    "@types/http-link-header" "^1.0.1"
-    "@types/node" "^18.0.0"
-    canonicalize "^1.0.1"
-    cross-fetch "^3.0.6"
-    http-link-header "^1.0.2"
-    relative-to-absolute-iri "^1.0.5"
-
 "jsonld-context-parser@https://github.com/redpencilio/jsonld-context-parser.js#fix/base-resolving":
   version "2.2.0"
   resolved "https://github.com/redpencilio/jsonld-context-parser.js#9c15bbe7463db19acc0d7a778c032320dc4a58b6"
